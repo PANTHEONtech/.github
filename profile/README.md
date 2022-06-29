@@ -1,22 +1,16 @@
-# PANTHEON.tech 
-
-A 🇪🇺-based R&D company in Slovakia.
-
-A subsidiary of [PANTHEON Group](https://pantheon.sk), focused on network-engineering services & products.
-
-🌎 [Visit our website!](https://pantheon.tech)
+A 🇪🇺-based R&D company in Slovakia, focused on network-engineering services & products.
 
 ## Our Open-Source Gitlab Projects
 
 [lighty.io](https://lighty.io) - I want to automate & orchestrate my network
 
-[YANGinator](https://github.com/PANTHEONtech/YANGinator) - I'm writing YANG modules and looking for an IDE plugin 
+[YANGinator](https://github.com/PANTHEONtech/YANGinator) - I am writing YANG modules and looking for an IDE plugin.
 
-[YANG Validator](https://github.com/PANTHEONtech/lighty-yang-validator) - I want to make sure my YANG models are compatible with [OpenDaylight](https://opendaylight.org/) and [lighty.io](https://lighty.io) 
+[YANG Validator](https://github.com/PANTHEONtech/lighty-yang-validator) - I want to make sure my YANG models are compatible with [OpenDaylight](https://opendaylight.org/) and [lighty.io](https://lighty.io).
 
-[NETCONF Simulator](https://github.com/PANTHEONtech/lighty-netconf-simulator) - I'm looking for simulated NETCONF devices for my CI/CD pipeline. 
+[NETCONF Simulator](https://github.com/PANTHEONtech/lighty-netconf-simulator) - I am looking for simulated NETCONF devices for my CI/CD pipeline. 
 
-[StoneWork](https://github.com/PANTHEONtech/StoneWork) - I'm looking for an FD.io distribution, with enhanced control-plane features. 
+[StoneWork](https://github.com/PANTHEONtech/StoneWork) - I am looking for a FD.io distribution, with enhanced control-plane features. 
 
 [VPPTop](https://github.com/PANTHEONtech/vpptop) - I need a simple tool to visualize various FD.io VPP statistics on my console. 
 
@@ -34,4 +28,4 @@ A subsidiary of [PANTHEON Group](https://pantheon.sk), focused on network-engine
 
 ## Contact Us
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+🌎 [Contact form on our website.](https://pantheon.tech)
