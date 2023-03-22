@@ -1,5 +1,4 @@
-# ![logo](https://pantheontech.b-cdn.net/wp-content/uploads/2016/03/cropped-favicon2-32x32.png) PANTHEON.tech 
-
+<img src="https://github.com/PANTHEONtech/.github/blob/main/PT-logo-update.png?raw=true" width="200">
 A 🇪🇺-based R&D company in Slovakia, focused on network-engineering services & products.
 
 ## :octocat: Our Open-Source Projects
