@@ -9,7 +9,7 @@ A 🇪🇺-based R&D company in Slovakia, focused on network-engineering service
 - [NETCONF Simulator](https://github.com/PANTHEONtech/lighty-netconf-simulator) - _I am looking for_ simulated NETCONF devices for my CI/CD pipeline. 
 - [StoneWork](https://github.com/PANTHEONtech/StoneWork) - _I am looking for_ a FD.io distribution, with enhanced control-plane features. 
 - [VPPTop](https://github.com/PANTHEONtech/vpptop) - _I need_ a simple tool to visualize various FD.io VPP statistics on my console. 
-- [Triemap](https://github.com/PANTHEONtech/triemap) - _I am_ a Java developer an _I'm looking for_ a TrieMap implementation. 
+- [Triemap](https://github.com/PANTHEONtech/triemap) - _I am_ a Java developer an _I'm looking for_ a java.util.ConcurrentMap implementation which is in many respects better than java.util.ConcurrentHashMap.
 - [lighty.io RNC](https://github.com/PANTHEONtech/lighty/tree/master/lighty-applications/lighty-rnc-app-aggregator) - _I need_ a pre-packed lighty application which provides RESTCONF interface and can manage NETCONF devices. 
 - [lighty.io RCgNMI](https://github.com/PANTHEONtech/lighty/tree/master/lighty-applications/lighty-rcgnmi-app-aggregator) - _I am looking for_ a pre-packaged, lighty.io application, which provides a RESTCONF interface and can manage gNMI devices. 
 
