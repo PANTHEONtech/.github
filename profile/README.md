@@ -15,7 +15,6 @@ A 🇪🇺-based R&D company in Slovakia, focused on network-engineering service
 
 ## ☕ Our Contributions
 
-- [PANTHEON.tech](https://pantheon.tech) is a member of <img src="https://linuxfoundation.org/favicon.ico" width="16" height="16"> [The Linux Foundation](https://linuxfoundation.org/). 
 - The Largest contributor to the <img src="https://www.opendaylight.org/favicon.ico" width="16" height="16"> [OpenDaylight Project](https://www.opendaylight.org/).
 - <img src="https://www.yangcatalog.org/favicon.ico" width="16" height="16"> [YANG Catalog](https://github.com/YangCatalog) contributor
 
